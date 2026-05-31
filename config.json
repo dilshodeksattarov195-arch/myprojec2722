@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentuender",
+        "uuid": 26770870,
+        "checksum": "gy75h"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
